@@ -1,7 +1,7 @@
 import pytest
 import requests
 
-from democritus_user_agents import user_agent_common
+from d8s_user_agents import user_agent_common
 
 
 def test_user_agent_common_1():
