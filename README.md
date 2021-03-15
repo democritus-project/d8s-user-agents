@@ -1,8 +1,8 @@
 # Democritus User Agents
 
-[![PyPI](https://img.shields.io/pypi/v/democritus-user-agents.svg)](https://pypi.python.org/pypi/democritus-user-agents)
-[![Build Status](https://travis-ci.com/democritus-project/democritus-user-agents.svg?branch=master)](https://travis-ci.com/democritus-project/democritus-user-agents)
-[![codecov](https://codecov.io/gh/democritus-project/democritus-user-agents/branch/master/graph/badge.svg?token=V0WOIXRGMM)](https://codecov.io/gh/democritus-project/democritus-user-agents)
+[![PyPI](https://img.shields.io/pypi/v/d8s-user-agents.svg)](https://pypi.python.org/pypi/d8s-user-agents)
+[![Build Status](https://travis-ci.com/democritus-project/d8s-user-agents.svg?branch=main)](https://travis-ci.com/democritus-project/d8s-user-agents)
+[![codecov](https://codecov.io/gh/democritus-project/d8s-user-agents/branch/main/graph/badge.svg?token=V0WOIXRGMM)](https://codecov.io/gh/democritus-project/d8s-user-agents)
 
 Democritus functions<sup>[1]</sup> for working with User Agents.
 
